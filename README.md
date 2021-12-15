@@ -1,4 +1,4 @@
-### TMI
+### 👋 TMI 👋
 
 - 블로그 : <https://torytone.github.io> ✨
 - 이메일 : <torytone77@gmail.com> ✨
